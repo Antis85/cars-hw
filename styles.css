@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url('Roboto.ttf');
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url('Robotobold.ttf');
+  font-weight: bold;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+
+/*# sourceMappingURL=styles.css.map*/
